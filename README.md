@@ -11,7 +11,8 @@
 - 25.10.24. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/23.svg"> [9484번 : 최대삼각형, 최소삼각형](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251024_9484.md)
 - 25.10.25. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/23.svg"> [25415번 : 삼각형들](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251025_25415.md)
 - 25.10.26. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/19.svg"> [3847번 : Comparing answers](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251026_3847.md)
-
+- 25.10.27. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> [19644번 : 좀비 떼가 기관총 진지에도 오다니](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251027_19644.md)
+- 25.10.27. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [17038번 : The Great Revegetation (Silver)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251027_17038.md)
 <hr>
 
 ## SQL
