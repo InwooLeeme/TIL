@@ -16,6 +16,7 @@
 - 25.10.28. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"> [21608번 : 상어초등학교](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251028_21608.md)
 - 25.10.28. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> [16236번 : 아기상어](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251028_16236.md)
 - 25.10.29. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"> [17240번 : Team Selection](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251029_17240.md)
+- 25.10.31. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [1079번 : 마피아](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251031_1079.md)
 <hr>
 
 ## SQL
