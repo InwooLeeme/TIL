@@ -25,4 +25,4 @@
 
 ## Certificate(자격증)
 
-- 25.11.01 [한국사 능력 검정 시험 76회 1급 후기]
+- 25.11.01 [한국사 능력 검정 시험 76회 1급 후기](https://github.com/InwooLeeme/TIL/blob/main/Certificate/Korean%20History%20Proficiency%20Test%20Review.md)
