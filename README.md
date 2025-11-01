@@ -22,3 +22,7 @@
 ## SQL
 
 - 25.10.24. [프로그래머스 SQL 문제 풀이](https://github.com/InwooLeeme/TIL/blob/main/SQL/sql_20251024_solving.md)
+
+## Certificate(자격증)
+
+- 25.11.01 [한국사 능력 검정 시험 76회 1급 후기]
