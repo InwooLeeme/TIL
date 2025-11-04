@@ -18,7 +18,8 @@
 - 25.10.29. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"> [17240번 : Team Selection](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251029_17240.md)
 - 25.10.31. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [1079번 : 마피아](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251031_1079.md)
 - 25.11.02. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/17.svg"> [16590번 : KMP](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251102_16590.md)
-- 25.11.03. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> [33635번 : ─점심시간─](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251103_.33635md)
+- 25.11.03. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> [33635번 : ─점심시간─](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251103_33635.md)
+- 25.11.04. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [15712번 : 등비수열](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251104_15712.md)
 <hr>
 
 ## SQL
