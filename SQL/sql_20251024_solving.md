@@ -48,3 +48,23 @@ select COUNT(FISH_TYPE) as FISH_COUNT from FISH_INFO where FISH_TYPE IN (select 
 // 동물의 아이디와 이름, 성별 및 중성화 여부를 조회하는 SQL 문을 작성해주세요.
 select ANIMAL_ID, NAME, SEX_UPON_INTAKE from ANIMAL_INS where NAME in ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty') order by ANIMAL_ID ASC
 ```
+
+#### [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
+
+```sql
+// FISH_NAME_INFO에서 물고기의 종류 별 물고기의 이름과 잡은 수를 출력하는
+// SQL문을 작성해주세요.
+
+// 물고기의 이름 컬럼명은 FISH_NAME, 잡은 수 컬럼명은 FISH_COUNT로 해주세요.
+// 결과는 잡은 수 기준으로 내림차순 정렬해주세요.
+
+
+select count(*) as FISH_COUNT, N.FISH_NAME
+from FISH_NAME_INFO N
+JOIN FISH_INFO I
+ON N.FISH_TYPE = I.FISH_TYPE
+GROUP BY N.FISH_NAME
+ORDER BY FISH_COUNT DESC
+```
+
+JOIN축약을 이용해서 GROUP BY와 같이 이용해서 풀었다.
