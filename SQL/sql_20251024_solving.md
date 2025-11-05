@@ -49,6 +49,8 @@ select COUNT(FISH_TYPE) as FISH_COUNT from FISH_INFO where FISH_TYPE IN (select 
 select ANIMAL_ID, NAME, SEX_UPON_INTAKE from ANIMAL_INS where NAME in ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty') order by ANIMAL_ID ASC
 ```
 
+## 2025.11.05
+
 #### [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257)
 
 ```sql
@@ -68,3 +70,18 @@ ORDER BY FISH_COUNT DESC
 ```
 
 JOIN축약을 이용해서 GROUP BY와 같이 이용해서 풀었다.
+
+#### [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710)
+
+```sql
+// ROOT 아이템을 찾아 아이템 ID(ITEM_ID), 아이템 명(ITEM_NAME)을 출력하는 SQL문을 작성해 주세요. 이때, 결과는 아이템 ID를 기준으로 오름차순 정렬해 주세요.
+select ITEM_ID, ITEM_NAME
+from ITEM_INFO
+where ITEM_ID in (
+    select ITEM_ID
+    from ITEM_TREE
+    where PARENT_ITEM_ID IS NULL
+)
+```
+
+JOIN을 이용해서 풀 수도 있긴한데.... 그냥 서브쿼리로 풀었다.
