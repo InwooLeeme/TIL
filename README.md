@@ -20,7 +20,8 @@
 - 25.11.02. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/17.svg"> [16590번 : KMP](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251102_16590.md)
 - 25.11.03. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> [33635번 : ─점심시간─](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251103_33635.md)
 - 25.11.04. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [15712번 : 등비수열](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251104_15712.md)
-- 25.11.06 [냅색 DP류 문제 풀이](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251106_dp.md)
+- 25.11.06. [냅색 DP류 문제 풀이](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251106_dp.md)
+- 25.11.09. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"> [34730번 : 그래도 시간은 흐른다](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251109_34730.md)
 <hr>
 
 ## SQL
