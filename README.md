@@ -22,6 +22,8 @@
 - 25.11.04. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"> [15712번 : 등비수열](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251104_15712.md)
 - 25.11.06. [냅색 DP류 문제 풀이](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251106_dp.md)
 - 25.11.09. <img width=11 src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg"> [34730번 : 그래도 시간은 흐른다](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251109_34730.md)
+- 25.11.11. [[BOJ] 2025년 11월 문제풀이 (1)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251111_ps.md)
+
 <hr>
 
 ## SQL
