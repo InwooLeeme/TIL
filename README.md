@@ -27,6 +27,7 @@
 - 25.11.14. [[BOJ] 2025년 11월 문제풀이 (3)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251114_ps.md)
 - 25.11.15. [[BOJ] 2025년 11월 문제풀이 (4)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251115_ps.md)
 - 25.11.16. [[BOJ] 2025년 11월 문제풀이 (5)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251116_ps.md)
+- 25.11.30 [[BOJ] 2025년 11월 문제풀이 (6)](https://github.com/InwooLeeme/TIL/blob/main/BOJ/boj_20251130_ps.md)
 <hr>
 
 ## SQL
